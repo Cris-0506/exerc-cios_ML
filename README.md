@@ -1,1 +1,1 @@
-# exerc-cios_ML
+# exercicios_ML
